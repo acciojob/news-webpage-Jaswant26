@@ -5,12 +5,7 @@
 body{
 	background-color : #f5f5f5;
 }
-.article{
-	display:flex;
-	justify-content:top;;
-	flex-direction:row;
-	flex-wrap:wrap;
-}
+
 .header{
 	background-color : #011e29;
 	color:white;
