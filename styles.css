@@ -29,7 +29,7 @@ body{
 }
 .main-article{
 	background-color:white;
-	flex:1;
+	flex:2;
 	height:200px;
 	border-radius:10px;
 	margin:10px;
